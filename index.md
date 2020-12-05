@@ -12,7 +12,7 @@ Here is our [GitHub Repository](https://github.com/yaogood/stock-price-predictio
 
 ### Data Used
 
-![Input Variables](https://github.com/yuxiangalvin/Deep-Learning-Project/blob/main/WVAD.html)
+![Input Variables](WVAD.html)
 
 ### Results
 
