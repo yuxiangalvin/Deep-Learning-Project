@@ -17,6 +17,7 @@ Here is our [GitHub Repository](https://github.com/yaogood/stock-price-predictio
 ### Results
 
 Result Table
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
