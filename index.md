@@ -21,3 +21,7 @@ Result Table
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+
+
+{% include figure.html %}
