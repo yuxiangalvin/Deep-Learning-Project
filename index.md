@@ -24,4 +24,4 @@ Result Table
 
 
 
-{% include figure.html %}
+{% include WVAD.html %}
